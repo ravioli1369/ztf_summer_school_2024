@@ -1,0 +1,104 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    python_version: 3.10.14
+    cli_version: 0.17.5
+    framework: keras
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    start_time: 1722910431
+    t:
+      1:
+      - 2
+      - 3
+      - 53
+      - 55
+      2:
+      - 2
+      - 3
+      - 53
+      - 55
+      3:
+      - 2
+      - 7
+      - 23
+      - 37
+      - 38
+      4: 3.10.14
+      5: 0.17.5
+      8:
+      - 1
+      - 5
+      13: linux-x86_64
+    m:
+    - 1: batch/batch_step
+      6:
+      - 3
+    - 1: batch/loss
+      5: 1
+      6:
+      - 1
+    - 1: batch/accuracy
+      5: 1
+      6:
+      - 1
+    - 1: batch/learning_rate
+      5: 1
+      6:
+      - 1
+LR_plateau_patience:
+  desc: null
+  value: 22
+batch_size:
+  desc: null
+  value: 51
+beta_1:
+  desc: null
+  value: 0.4501544060034156
+beta_2:
+  desc: null
+  value: 0.952545360088812
+dropout_1:
+  desc: null
+  value: 0.18668897270427823
+dropout_2:
+  desc: null
+  value: 0.17308464869219944
+dropout_3:
+  desc: null
+  value: 0.19656505284441772
+early_stopping_patience:
+  desc: null
+  value: 8
+epochs:
+  desc: null
+  value: 11
+image_size:
+  desc: null
+  value: (63,63,3)
+learning_rate:
+  desc: null
+  value: 0.0011287917716049423
+loss:
+  desc: null
+  value: binary_crossentropy
+metadata_size:
+  desc: null
+  value: (14,)
+optimizer:
+  desc: null
+  value: adam
+random_seed:
+  desc: null
+  value: 42
+reduce_LR_factor:
+  desc: null
+  value: 0.7528506326338017
+reduce_LR_minLR:
+  desc: null
+  value: 1.1259572035506906e-06
+train_data_version:
+  desc: null
+  value: ZTFSS

@@ -1,0 +1,127 @@
+{
+    "os": "Linux-6.5.0-35-generic-x86_64-with-glibc2.35",
+    "python": "3.10.14",
+    "heartbeatAt": "2024-08-06T01:38:49.111512",
+    "startedAt": "2024-08-06T01:38:44.150398",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "git@github.com:ravioli1369/ztf_summer_school_2024.git",
+        "commit": "5b02254e8c4be0baa4bb11408998df7f7fc56078"
+    },
+    "email": "81402844+ravioli1369@users.noreply.github.com",
+    "root": "/home/exouser/Documents/ztf_summer_school_2024",
+    "host": "ravi",
+    "username": "exouser",
+    "executable": "/home/exouser/miniconda3/envs/ztf/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 1996.249,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1996.249,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.249,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.249,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.249,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.249,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.249,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.249,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.249,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.249,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.249,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.249,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.249,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.249,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.249,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.249,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1996.249,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 496.0301856994629,
+            "used": 140.2737274169922
+        }
+    },
+    "gpu": "GRID A100X-20C",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "GRID A100X-20C",
+            "memory_total": 21474836480
+        }
+    ],
+    "memory": {
+        "total": 58.84269714355469
+    }
+}

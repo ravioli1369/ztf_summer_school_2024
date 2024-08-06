@@ -1,0 +1,38 @@
+wandb_version: 1
+
+LR_plateau_patience:
+  value: 38
+batch_size:
+  value: 60
+beta_1:
+  value: 0.8409906040936426
+beta_2:
+  value: 1.9543565946591324
+dropout_1:
+  value: 0.3160857222914196
+dropout_2:
+  value: 0.23272847587534343
+dropout_3:
+  value: 0.27753704969551435
+early_stopping_patience:
+  value: 9
+epochs:
+  value: 13
+image_size:
+  value: (63,63,3)
+learning_rate:
+  value: 0.0009398905545545144
+loss:
+  value: binary_crossentropy
+metadata_size:
+  value: (14,)
+optimizer:
+  value: adam
+random_seed:
+  value: 42
+reduce_LR_factor:
+  value: 0.32901281338324584
+reduce_LR_minLR:
+  value: 1.5905109362895511e-06
+train_data_version:
+  value: ZTFSS
